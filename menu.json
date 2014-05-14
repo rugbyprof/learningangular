@@ -1,0 +1,26 @@
+[
+    {
+        "fa":"fa fa-folder",
+        "label": "Users"
+    },
+    {
+        "fa":"fa fa-calendar",
+        "label": "Calendar"
+    },
+    {
+        "fa":"fa fa-globe",
+        "label": "Network"
+    },
+    {
+        "fa":"fa fa-upload",
+        "label": "Upload"
+    },
+    {
+        "fa":"fa fa-user",
+        "label": "Users"
+    },
+    {
+        "fa":"fa fa-thumbs-o-up",
+        "label":"GoodJob"
+    }
+]
