@@ -18,9 +18,6 @@
     {
         "fa":"fa fa-user",
         "label": "Users"
-    },
-    {
-        "fa":"fa fa-thumbs-o-up",
-        "label":"GoodJob"
     }
+
 ]

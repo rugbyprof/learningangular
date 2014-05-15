@@ -21,7 +21,7 @@
   <div class="container" style="margin-top:20px;margin-bottom:40px;" ng-controller="GetMenuController">
     <div class="row">
 		<div class="row nav-row">
-			<div ng-repeat="item in menu" ng-click="select(item)" class="col-md-2">
+			<div ng-repeat="item in menu" ng-class="{ 'active': $index == selectedIndex }" ng-click="itemClicked($index)" class="col-md-2">
 				<span class="{{ item.fa }}"></span>
 				<p>{{ item.label }}</p>
 			</div>
