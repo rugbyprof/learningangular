@@ -22,11 +22,5 @@
       "fname":"Susan",
       "lname":"Smith",
       "age":"45"
-    },
-	{
-      "id":"8",
-      "fname":"Frank",
-      "lname":"Uncool",
-      "age":"22"
     }
 ]
