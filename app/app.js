@@ -3,7 +3,7 @@ var App = angular.module('App', []);
 var controllers = {};
 
 controllers.GetNamesController = function($scope, $http) {
-  $http.get('C:/Users/owner/Documents/GitHub/learningangular/names.json/')
+  $http.get('names.json')
        .then(function(res){
           $scope.names = res.data;
         });
